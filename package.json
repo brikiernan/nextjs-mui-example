@@ -8,11 +8,16 @@
     "next": "latest",
     "prop-types": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "sass": "latest"
   },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
+  },
+  "devDependencies": {
+    "@types/node": "^14.11.8",
+    "typescript": "^4.0.3"
   }
 }
